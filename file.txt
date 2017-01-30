@@ -6,3 +6,6 @@ this is a second line
 something new (branch_1)
 >>>>>>> branch_1
 doing other changes
+a
+
+
