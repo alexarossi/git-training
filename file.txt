@@ -1,5 +1,8 @@
 this is our first info
 this is a second line
 
-conflict --- maybe
+=======
+
+something new (branch_1)
+>>>>>>> branch_1
 doing other changes
